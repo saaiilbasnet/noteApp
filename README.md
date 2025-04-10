@@ -2,15 +2,6 @@
 
 A simple JavaScript to-do list application that lets you add tasks, mark them as completed, and delete them. Tasks are saved in the browser's `localStorage` so they persist after refreshing the page.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Code Explanation](#code-explanation)
-- [Known Issues](#known-issues)
-- [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Features
 
@@ -36,3 +27,4 @@ To run this project on your local machine, follow these simple steps.
    ```bash
    git clone https://github.com/saaiilbasnet/noteApp.git
    cd js-todo-list
+
